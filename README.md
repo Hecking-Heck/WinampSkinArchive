@@ -9,3 +9,7 @@ Just download the repo or the .wsz file you want and double click it. Winamp wil
 If you have gotten here and somehow do not have Winamp yet, you can get it from the following link.
 
 https://www.winamp.com/downloads/
+
+# Credit
+- https://winampheritage.com
+- https://skinbase.org/Skins/Winamp-Skins/65
